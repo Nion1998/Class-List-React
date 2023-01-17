@@ -1,0 +1,24 @@
+
+.warapper .sidebar{
+    background-color: rgb(251, 251, 251);
+    position:fixed;
+    top: 3%;
+    left: 2%;
+    width: 260px;
+    height: 100%;
+    padding: 5px 0;
+    transition: all 0.5s ease;
+    border: 2px dotted ;
+    border-radius: 8px;
+}
+.logo img{
+    padding: 3px;
+    width: 240px;
+}
+.dashbord{
+    text-align: left;
+    padding-left: 7%;
+}
+
+
+

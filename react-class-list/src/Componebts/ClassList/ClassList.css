@@ -1,0 +1,28 @@
+
+.section{
+    display: flex;
+    justify-content: end;
+    
+}
+.container{
+    height: 100%;
+    width: 81%;
+    margin: 1.5%;
+}
+.top-nav{
+    width: 80%;
+    position:fixed;
+    padding: 5px 0;
+    transition: all 0.5s ease;
+    border: 2px dotted ;
+    border-radius: 8px;
+
+}
+.main{
+    position: absolute;
+    top: 10%;
+    text-align: left;
+}
+
+
+
